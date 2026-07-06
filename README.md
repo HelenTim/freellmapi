@@ -1,5 +1,6 @@
 ### 自己是怎么部署的
-  - 使用免费服务render部署的，参考链接https://chat.deepseek.com/share/kio0uqw7y3b4jtkt1m，直接使用docker部署即可
+  - 使用免费服务render部署的，参考链接https://chat.deepseek.com/share/kio0uqw7y3b4jtkt1m
+    - 直接使用docker部署即可
   - 服务上账号：3427439707@qq.com  密码：常用第一个
 
 <div align="center">
